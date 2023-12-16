@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunk94&label=Profile%20views&color=0e75b6&style=flat" alt="arunk94" /> </p>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning what makes my mind curious.
 
 - 📫 How to reach me **addythebeast24@gmail.com**
 
