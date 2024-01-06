@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning what makes my mind curious.
 
-- 📫 How to reach me **addythebeast24@gmail.com**
+- 📫 How to reach me **arun.kamath24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
